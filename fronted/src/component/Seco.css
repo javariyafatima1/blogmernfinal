@@ -1,0 +1,21 @@
+.seco-container {
+    padding: 20px;
+}
+
+.blog-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 15px;
+}
+
+.blog-title {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.blog-desc {
+    color: #666;
+}
